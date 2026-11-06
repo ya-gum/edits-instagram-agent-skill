@@ -1,0 +1,19 @@
+# Local validation fixtures, raw responses, and generated bundles
+/validation/
+/edits-mac.zip
+__pycache__/
+*.pyc
+.DS_Store
+
+# Local secrets and client configuration
+.env
+.env.*
+!.env.example
+.mcp.json
+.codex/
+.hermes/
+.claude/
+.cursor/
+.gemini/
+opencode.json
+opencode.jsonc

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Edits, an Instagram app — Agent Skill"
+  short_description: "Native MCP and UI workflows for Edits on macOS"
+  default_prompt: "Use $edits-mac to edit a video in Edits on my Mac."
